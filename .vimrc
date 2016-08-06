@@ -25,6 +25,8 @@ Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'jnurmine/Zenburn'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'scrooloose/nerdtree'
+" vim-ipython 
+"Plugin 'ivanov/vim-ipython'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
