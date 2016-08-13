@@ -27,6 +27,9 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'scrooloose/nerdtree'
 " vim-ipython 
 "Plugin 'ivanov/vim-ipython'
+"vim-slime
+Plugin 'jpalardy/vim-slime'
+
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
@@ -138,3 +141,5 @@ set clipboard=unnamed
 "
 let NERDTreeShowHidden=1
 map <C-n> :NERDTreeToggle<CR>
+
+let g:slime_target = "tmux"
