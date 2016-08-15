@@ -29,7 +29,8 @@ Plugin 'scrooloose/nerdtree'
 "Plugin 'ivanov/vim-ipython'
 "vim-slime
 Plugin 'jpalardy/vim-slime'
-
+"Dockerfile syntax for Vim
+Plugin 'ekalinin/Dockerfile.vim'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
