@@ -33,6 +33,8 @@ Plugin 'jpalardy/vim-slime'
 Plugin 'ekalinin/Dockerfile.vim'
 "vimtex
 Plugin 'lervag/vimtex'
+"Fuzzy finder
+Plugin 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
